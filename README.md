@@ -26,7 +26,7 @@
 
 | 360° | Angle  |
 | :-: | :-: |
-<img src="visuals\.gif" alt="virtual carousel" width="400px"/> | <img src="visuals\.png" alt="virtual angle" width="400px"/>
+<img src="visuals\.gif" alt="virtual carousel" width="400px"/> | <img src="visuals\Images\MRP_virtual_side_angle.PNG" alt="virtual angle" width="300px"/>
 
 ### :point_right: Real
 
