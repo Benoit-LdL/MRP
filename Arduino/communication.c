@@ -5,6 +5,7 @@
 
  data types:
     get / set:
+        
         config_stepper:
             microstepping
             max_speed
@@ -26,14 +27,14 @@
                 dist
                 speed
                 accel
+        
         stop: -> disable steppers
+        
         sensor
             id
             analogIn
             analogOut
             digitalIn
             digitalOut
-
-
 
 */
