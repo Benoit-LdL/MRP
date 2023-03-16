@@ -1,4 +1,4 @@
-![banner](visuals/Banner/Slide1.png)
+![banner](Visuals/Banner/Slide1.png)
 
 ## Table of contents
 
@@ -26,7 +26,7 @@
 
 | 360° | Angle  |
 | :-: | :-: |
-<img src="visuals\Gifs\carousel.gif" alt="virtual carousel" width="400px"/> | <img src="Visuals\Images\MRP_virtual_side_angle.PNG" alt="virtual angle" width="300px"/>
+<img src="visuals\Gifs\MRP_carousel.gif" alt="virtual carousel" width="400px"/> | <img src="Visuals\Images\MRP_virtual_side_angle.PNG" alt="virtual angle" width="300px"/>
 
 ### :point_right: Real
 
