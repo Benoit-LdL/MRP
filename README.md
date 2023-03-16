@@ -18,8 +18,6 @@
 | xx/12/2022 | Started building MRP. | N/A |
 | xx/11/2022 | Started creation of MRP 3D model in Fusion360 | N/A |
 
-
-
 ## Visuals
 
 ### :point_right: Virtual
