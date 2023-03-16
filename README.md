@@ -15,6 +15,8 @@
 | Date | Description | Visual |
 | :-: | :-: | :-: |
 | 16/03/2023 | Creation of Repository. | N/A |
+| xx/12/2022 | Started building MRP. | N/A |
+| xx/11/2022 | Started creation of MRP 3D model in Fusion360 | N/A |
 
 
 
