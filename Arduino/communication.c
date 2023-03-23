@@ -15,18 +15,26 @@
                 dist
                 speed
                 accel
+                curPos
+                move
             stepper 2
                 dist
                 speed
                 accel
+                curPos
+                move
             stepper 3
                 dist
                 speed
                 accel
+                curPos
+                move
             stepper 4
                 dist
                 speed
                 accel
+                curPos
+                move
         
         stop: -> disable steppers
         
