@@ -19,13 +19,13 @@ This  time I wanted to start a project from scratch AND make something that woul
 
 ## Update Journal
 
-| Date | Description | Visual |
-| :-: | :-: | :-: |
-| 24/03/2023 | Finished building V1     | [check out visuals](#visuals) |
-| 18/03/2023 | Started coding stepper movent | N/A |
-| 16/03/2023 | Creation of Repository.  | N/A |
-| xx/12/2022 | Started building MRP.    | N/A |
-| xx/11/2022 | Started creation of MRP 3D model in Fusion360 | N/A |
+| **Date**      | **Description**
+| :-:           | :-:
+| 24/03/2023    | Finished building V1
+| 18/03/2023    | Started coding stepper movent
+| 16/03/2023    | Creation of Repository.
+| xx/12/2022    | Started building MRP.
+| xx/11/2022    | Started creation of MRP 3D model in Fusion360
 
 ## Pictures
 
