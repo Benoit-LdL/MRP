@@ -6,9 +6,9 @@ AccelStepper stepper2(AccelStepper::DRIVER, 54,55);
 AccelStepper stepper3(AccelStepper::DRIVER, 60,61);
 AccelStepper stepper4(AccelStepper::DRIVER, 26,28);
 
-const int spd   = 1000.0;
+const int spd   = 10000.0;
 const int accel = 2000.0;
-const int dist  = 1600; 
+const int dist  = 4000; 
 
 void setup()
 {  
@@ -515,4 +515,3 @@ void loop()
 
 #endif // HAS_SPI_LCD
 */
- */
